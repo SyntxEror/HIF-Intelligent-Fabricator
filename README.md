@@ -17,3 +17,16 @@ The attached PDFs contain:
 - The detailed formatted conceptual outline
 
 This repository stands as public authorship proof under open publication timestamping.
+
+### Commercial Use
+
+This concept is licensed under a **Non-Commercial license**.  
+Any commercial use, startup use, research monetization, industrial deployment, or patent filing based on this idea requires **direct permission from the creator**.
+
+For commercial licensing, partnerships, investment, or co-development,
+please contact the creator:
+
+**Creator:** Harsh  
+**Project:** HIF – Harsh Intelligent Fabric  
+**Year:** 2025  
+**Commercial rights available on a case-by-case basis (royalty or equity model).**
